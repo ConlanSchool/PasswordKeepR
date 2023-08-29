@@ -1,22 +1,23 @@
 # PasswordKeepR - Password Manager Application
 
-This is a password manager web application that helps users store and manage their passwords securely.
+A password manager web application that helps users store and manage their passwords securely.
 
 ### Screenshots
 
 ![](./public/assets/screenshots.gif)
 
-### Requirements
 
-Users should be able to:
+### Features
 
-- user can register/login and be assigned to an organization
-- an organization has many users
-- user can add a new username and password for a specific website
+Users are able to:
+
+- register/login and be assigned to an organization
+- an organization can have many users
+- add a new username and password for a specific website
 - app can generate passwords based on the criteria specified (password length, contains lowercase, contairs uppercase, contains numbers, etc)
-- user can edit and change their password any time
-- user has a convinient copy to clipboard button so they dont have to select the password
-- sites can be categoried, to, social (fb, linkedin), work related (bamboo, harvest), entertainment (snapchat, reddit), etc, etc
+- edit and change their password any time
+- copy to clipboard button so they dont have to select the password
+- sites can be categoried: social (fb, linkedin), work related (bamboo, harvest), entertainment (snapchat, reddit), etc
 
 
 ## The Process
