@@ -6,19 +6,6 @@ This is a password manager web application that helps users store and manage the
 
 ![](./public/assets/screenshots.gif)
 
-## Table Of Contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Requirements](#the-challenge)
-  - [Links](#links)
-- [The process](#my-process)
-  - [Built With](#built-with)
-  - [What We Learned](#what-we-learned)
-  - [Continued Development](#continued-development)
-  - [Useful Resources](#useful-resources)
-- [Authors](#authors)
-
 ### Requirements
 
 Users should be able to:
