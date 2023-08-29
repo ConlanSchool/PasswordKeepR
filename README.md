@@ -2,11 +2,15 @@
 
 This is a password manager web application that helps users store and manage their passwords securely.
 
+### Screenshots
+
+![](./public/assets/screenshots.gif)
+
 ## Table Of Contents
 
 - [Overview](#overview)
-  - [Requirements](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Requirements](#the-challenge)
   - [Links](#links)
 - [The process](#my-process)
   - [Built With](#built-with)
@@ -27,13 +31,6 @@ Users should be able to:
 - user has a convinient copy to clipboard button so they dont have to select the password
 - sites can be categoried, to, social (fb, linkedin), work related (bamboo, harvest), entertainment (snapchat, reddit), etc, etc
 
-### Screenshots
-
-![](./public/assets/screenshots.gif)
-
-### Links
-
-- [Live Site URL]()
 
 ## The Process
 
